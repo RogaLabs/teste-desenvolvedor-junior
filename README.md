@@ -12,4 +12,16 @@ Utilizando Node.js e Express retorne uma página estática que contenha uma list
 
 - Fique a vontade para utilizar qualquer motor de view (PUG, ejs, handlebars, etc..)
 
+# Envio do teste
+
+Ao finalizar, deve ser feito um PR (pull request) para este repositório contendo o seu nome e suas modificações para que seja feita a avaliação.
+
+# Avaliação
+
+Irá ser avaliado: Seu conhecimento técnico, sua habilidade para resolver problemas de forma simples e eficiente e boas práticas de código.
+
+# Exemplo
+
+Quanto ao design fique livre para criar, no entanto todos os dados devem ser exibidos conforme é mostrado no seguinte exemplo:
+
 ![alt text](/example.png)
